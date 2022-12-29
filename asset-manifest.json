@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pyra/static/css/main.44cacfda.css",
+    "main.js": "/pyra/static/js/main.7b71dbf2.js",
+    "static/js/787.d8fc4769.chunk.js": "/pyra/static/js/787.d8fc4769.chunk.js",
+    "index.html": "/pyra/index.html",
+    "main.44cacfda.css.map": "/pyra/static/css/main.44cacfda.css.map",
+    "main.7b71dbf2.js.map": "/pyra/static/js/main.7b71dbf2.js.map",
+    "787.d8fc4769.chunk.js.map": "/pyra/static/js/787.d8fc4769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44cacfda.css",
+    "static/js/main.7b71dbf2.js"
+  ]
+}
